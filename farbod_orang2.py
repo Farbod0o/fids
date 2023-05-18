@@ -1,7 +1,5 @@
 import mysql.connector as mysql
 import requests
-requests.packages.urllib3.disable_warnings()
-import requests
 import json
 requests.packages.urllib3.disable_warnings()
 from jdatetime import date, timedelta
