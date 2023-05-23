@@ -1,0 +1,137 @@
+,id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,arrival,departure
+25840,42528.0,IR-0001,small_airport,Khaneh Airport,36.73334122,45.15000153,4804.0,AS,IR,IR-02,Khaneh,no,OITH,KHA,,,,,0,0
+25841,43227.0,IR-0002,small_airport,Ahmadi Military Air Field,29.0991993,51.03530121,,AS,IR,IR-06,,no,,,,,,,0,0
+25842,43228.0,IR-0003,small_airport,Darrahi Military Air Field,29.37579918,51.06750107,,AS,IR,IR-06,Sadabad,no,,,,,,,0,0
+25843,44966.0,IR-0004,small_airport,Shahrokhi Highway Strip,35.2320893,48.61355782,,AS,IR,IR-24,,no,,,,,,,0,0
+25844,44967.0,IR-0005,small_airport,Shahabad Highway Strip,34.07048906,46.59709454,,AS,IR,IR-17,,no,,,,,,,0,0
+25845,44968.0,IR-0006,closed,Andimeshk-Karkhe Dam Highway Strip,32.40275522,48.18187237,,AS,IR,IR-10,,no,,,,,,باند قدیمی فرودگاه اندیمشک,0,0
+25846,44969.0,IR-0007,small_airport,Shadgan Airport,30.66442947,48.64448905,,AS,IR,IR-10,,no,,,,,,,0,0
+25847,44972.0,IR-0008,small_airport,Gorreh Airport,29.90723638,50.42784691,,AS,IR,IR-06,,no,,,,,,,0,0
+25848,44973.0,IR-0009,small_airport,Behbehan Northwest Airport,30.73145207,50.11411428,,AS,IR,IR-10,,no,,,,,,,0,0
+25849,28487.0,IR-001,small_airport,Vayqan Air Base,38.0719986,45.72359848,4200.0,AS,IR,IR-01,Shabestar,no,,,,,,,0,0
+25850,44974.0,IR-0010,small_airport,Esfahan East Airport,32.58269218,52.00221777,,AS,IR,IR-04,,no,,,,,,,0,0
+25851,44975.0,IR-0011,small_airport,Mansurabad North Airport,30.03582962,52.80027151,,AS,IR,IR-14,,no,,,,,,,0,0
+25852,44976.0,IR-0012,small_airport,Tehran West Airport,35.74196675,51.22922659,,AS,IR,IR-07,,no,,,,,,,0,0
+25853,44977.0,IR-0013,small_airport,Sarvestan Airport,29.23499439,53.12855244,,AS,IR,IR-14,,no,,,,,,,0,0
+25854,46542.0,IR-0014,small_airport,Ella North Airport,31.92180801,48.87751713,,AS,IR,IR-10,Langar,no,,,,,,,0,0
+25855,308231.0,IR-0015,small_airport,Khar Rud Airport,35.943639,50.082056,,AS,IR,IR-28,,no,,,,,,,0,0
+25856,308232.0,IR-0016,small_airport,Khāsh Airport,28.23698972,61.18260384,,AS,IR,IR-13,,no,,,,,,,0,0
+25857,312775.0,IR-0017,closed,Khour Airport,32.861803,58.424593,,AS,IR,IR-29,,no,,,,,,,0,0
+25858,35276.0,IR-GSM,small_airport,Qeshm International Airport,26.754639,55.902353,45.0,AS,IR,IR-23,Qeshm,yes,OIKQ,GSM,,,https://en.wikipedia.org/wiki/Qeshm_International_Airport,,0,0
+25859,3351.0,IR-OI21,small_airport,Semnan New Airport,35.38940048,53.67139816,3659.0,AS,IR,IR-12,,no,OI21,,OI21,,,,0,0
+25860,3352.0,IR-OI24,small_airport,Gonbad Ghabus Airport,37.24610138,55.09590149,107.0,AS,IR,IR-27,,no,OI24,,OI24,,,,0,0
+39941,3345.0,OI03,small_airport,Garmcar Sw Airport,35.17419815,52.32329941,2717.0,AS,IR,IR-12,,no,OI03,,OI03,,,,0,0
+39948,3347.0,OI13,small_airport,Mahmudabad Airport,30.0,53.71149826,6970.0,AS,IR,IR-14,,no,OI13,,OI13,,,,0,0
+39949,3348.0,OI19,small_airport,Firuzabad Airport,35.5298996,51.50579834,3258.0,AS,IR,IR-07,,no,OI19,,OI19,,,,0,0
+39950,3349.0,OI1C,small_airport,Mehtar Kalateh Airport,36.85689926,54.20220184,-64.0,AS,IR,IR-27,,no,OI1C,,OI1C,,,,0,0
+39951,3350.0,OI20,small_airport,Bahregan Airport,29.840099,50.272701,20.0,AS,IR,IR-06,,no,OI20,IAQ,OI20,,,,0,0
+40026,5130.0,OIAA,medium_airport,Abadan Airport,30.37109947,48.22829819,10.0,AS,IR,IR-10,Abadan,yes,OIAA,ABD,,,https://en.wikipedia.org/wiki/Abadan_Airport,,63,61
+40027,5131.0,OIAD,small_airport,Dezful Airport,32.434399,48.397598,474.0,AS,IR,IR-10,,yes,OIAD,DEF,,,https://en.wikipedia.org/wiki/Dezful_Airport,Vahdati Air Base,0,6
+40028,5132.0,OIAG,medium_airport,Aghajari Airport,30.7444,49.6772,88.0,AS,IR,IR-10,Aghajari,no,OIAG,AKW,,,https://en.wikipedia.org/wiki/Aghajari_Airport,,0,0
+40029,5133.0,OIAH,medium_airport,Gachsaran Airport,30.33760071,50.82799912,2414.0,AS,IR,IR-18,Gachsaran,no,OIAH,GCH,,,,,0,4
+40030,5134.0,OIAI,medium_airport,Shahid Asyaee Airport,32.00239944,49.270401,1206.0,AS,IR,IR-10,,no,OIAI,,,,,,0,0
+40031,5135.0,OIAJ,small_airport,Omidiyeh Airport,30.83519936,49.53490067,85.0,AS,IR,IR-10,Omidiyeh,no,OIAJ,OMI,,,,,0,0
+40032,5136.0,OIAM,medium_airport,Mahshahr Airport,30.55620003,49.15190125,8.0,AS,IR,IR-10,,yes,OIAM,MRX,,,https://en.wikipedia.org/wiki/Mahshahr_Airport,,0,4
+40033,5137.0,OIAW,medium_airport,Ahwaz Airport,31.33740044,48.76200104,66.0,AS,IR,IR-10,Ahwaz,yes,OIAW,AWZ,,,https://en.wikipedia.org/wiki/Ahvaz_Airport,,174,182
+40034,5138.0,OIBA,medium_airport,Abu Musa Island Airport,25.8757,55.033001,23.0,AS,IR,IR-23,Abu Musa,yes,OIBA,AEU,,,https://en.wikipedia.org/wiki/Abu_Musa_Airport,,0,2
+40035,5139.0,OIBB,medium_airport,Bushehr Airport,28.94479942,50.83459854,68.0,AS,IR,IR-06,Bushehr,yes,OIBB,BUZ,,,https://en.wikipedia.org/wiki/Bushehr_Airport,,57,52
+40036,5140.0,OIBH,small_airport,Bastak Airport,27.21269989,54.3185997,1350.0,AS,IR,IR-23,,no,OIBH,,,,,,0,0
+40037,5141.0,OIBI,small_airport,Asaloyeh Airport,27.4814,52.615501,15.0,AS,IR,IR-06,Asaloyeh,no,OIBI,YEH,OI15,,https://en.wikipedia.org/wiki/Asalouyeh_Airport,AOY,0,56
+40038,5142.0,OIBJ,medium_airport,Jam Airport,27.82049942,52.35219955,2173.0,AS,IR,IR-06,Kangan,no,OIBJ,KNR,,,,"Tohid, OIBM",0,0
+40039,5143.0,OIBK,medium_airport,Kish International Airport,26.52619934,53.98020172,101.0,AS,IR,IR-23,Kish Island,yes,OIBK,KIH,,,https://en.wikipedia.org/wiki/Kish_Airport,,0,289
+40040,5144.0,OIBL,medium_airport,Bandar Lengeh Airport,26.53199959,54.82479858,67.0,AS,IR,IR-23,Bandar Lengeh,yes,OIBL,BDH,,,https://en.wikipedia.org/wiki/Bandar_Lengeh_Airport,,0,4
+40041,42510.0,OIBN,small_airport,Borazjan Airport,29.26666641,51.20000076,265.0,AS,IR,IR-06,Borazjan,no,OIBN,,,,,,0,0
+40042,5145.0,OIBP,medium_airport,Persian Gulf International Airport,27.379601,52.737701,27.0,AS,IR,IR-06,Asalouyeh,yes,OIBP,PGU,,,https://en.wikipedia.org/wiki/Persian_Gulf_Airport,"Khalije Fars, PSEEZ, Bandar Asalouyeh, Pars-Special-Zone,  عسلویه",0,16
+40043,5146.0,OIBQ,medium_airport,Khark Island Airport,29.26029968,50.32389832,17.0,AS,IR,IR-06,,no,OIBQ,KHK,,,,,0,0
+40044,5147.0,OIBS,medium_airport,Sirri Island Airport,25.90889931,54.53939819,43.0,AS,IR,IR-23,,no,OIBS,SXI,,,,,0,0
+40045,5148.0,OIBV,medium_airport,Lavan Island Airport,26.81030083,53.35630035,76.0,AS,IR,IR-23,,no,OIBV,LVP,,,,,0,0
+40046,32755.0,OICB,small_airport,Baneh Airport,35.98770142,45.8470993,4911.0,AS,IR,IR-16,Baneh,no,OICB,,,,,,0,0
+40047,5149.0,OICC,medium_airport,Shahid Ashrafi Esfahani Airport,34.34590149,47.15810013,4307.0,AS,IR,IR-17,Kermanshah,yes,OICC,KSH,,,https://en.wikipedia.org/wiki/Shahid_Ashrafi_Esfahani_Airport,,20,32
+40048,32101.0,OICD,small_airport,Abdanan Airport,32.93450165,47.48339844,2600.0,AS,IR,IR-05,Abdanan,no,OICD,,,,,,0,0
+40049,42511.0,OICG,small_airport,Ghasre-Shirin Airport,34.51666641,45.56666565,,AS,IR,IR-17,Ghasre-Shirin,no,OICG,,,,,,0,0
+40050,5150.0,OICI,medium_airport,Ilam Airport,33.58660126,46.40480042,4404.0,AS,IR,IR-05,Ilam,no,OICI,IIL,,,https://en.wikipedia.org/wiki/Ilam_Airport,,33,31
+40051,5151.0,OICK,medium_airport,Khoram Abad Airport,33.4353981,48.28290176,3782.0,AS,IR,IR-20,,yes,OICK,KHD,,,https://en.wikipedia.org/wiki/Khorramabad_Airport,,16,15
+40052,5152.0,OICS,medium_airport,Sanandaj Airport,35.2458992,47.00920105,4522.0,AS,IR,IR-16,,yes,OICS,SDG,,,https://en.wikipedia.org/wiki/Sanandaj_Airport,,0,0
+40053,42512.0,OICZ,small_airport,Aligoodarz Airport,33.38359833,49.69639969,6505.0,AS,IR,IR-20,,no,OICZ,,,,,,0,0
+40054,5153.0,OIFE,small_airport,Hesa Airport,32.92890167,51.56110001,5256.0,AS,IR,IR-04,Hesa,no,OIFE,IFH,,,,,0,0
+40055,5154.0,OIFH,small_airport,Shahid Vatan Pour Air Base,32.56700134,51.6916008,5310.0,AS,IR,IR-04,,no,OIFH,,,,,,0,0
+40056,5155.0,OIFK,medium_airport,Kashan Airport,33.895302,51.577,3465.0,AS,IR,IR-04,Kashan,yes,OIFK,KKS,,,https://en.wikipedia.org/wiki/Kashan_Airport,,0,0
+40057,5156.0,OIFM,medium_airport,Esfahan Shahid Beheshti International Airport,32.75080109,51.86130142,5059.0,AS,IR,IR-04,Isfahan,yes,OIFM,IFN,,,https://en.wikipedia.org/wiki/Isfahan_International_Airport,Isfahan Shahid Beheshti,121,89
+40058,5157.0,OIFP,medium_airport,Badr Air Base,32.62110138,51.6969986,5242.0,AS,IR,IR-04,Esfahan,no,OIFP,,,,,Sepah Air Base,0,0
+40059,5158.0,OIFS,medium_airport,Shahrekord Airport,32.29719925,50.84220123,6723.0,AS,IR,IR-08,Shahrekord,no,OIFS,CQD,,,https://en.wikipedia.org/wiki/Shahrekord_Airport,,10,9
+40060,32102.0,OIFV,small_airport,Zarrinshahr Airport,32.32740021,51.37730026,5650.0,AS,IR,IR-04,Zarrinshahr,no,OIFV,,,,,,0,0
+40061,5159.0,OIGG,medium_airport,Sardar-e-Jangal Airport,37.323333,49.617778,-40.0,AS,IR,IR-19,Rasht,yes,OIGG,RAS,,http://rasht.airport.ir/HomePage.aspx?site=rasht.airport&lang=fa-IR&tabid=0,https://en.wikipedia.org/wiki/Rasht_Airport,,56,48
+40062,5160.0,OIHH,medium_airport,Hamadan Airport,34.86920166,48.55250168,5755.0,AS,IR,IR-24,Hamadan,no,OIHH,HDM,,,,,0,0
+40063,42513.0,OIHM,small_airport,Malayer Airport,34.28333282,48.81666565,5662.0,AS,IR,IR-24,Malayer,no,OIHM,,,,,,0,0
+40064,5161.0,OIHR,small_airport,Arak Airport,34.13809967,49.84730148,5440.0,AS,IR,IR-22,Araak,no,OIHR,AJK,,,,,0,0
+40065,5162.0,OIHS,medium_airport,Hamadan Air Base,35.21160126,48.65340042,5609.0,AS,IR,IR-24,Hamadan,no,OIHS,,,,,,0,0
+40066,5163.0,OIIA,small_airport,Ghazvin Azadi Airport,35.95209885,50.45080185,3769.0,AS,IR,IR-28,,no,OIIA,,,,,,0,0
+40067,330558.0,OIIB,small_airport,Eyvanekey Airport,35.360351,51.98659,3363.0,AS,IR,IR-12,Eyvanekey,no,OIIB,,,http://bpkh.co.ir/index.php/en/homepage/91-box/28-boland-parvaz-khavar-eyvanaki-airport,,Aflak Asia,0,0
+40068,5164.0,OIIC,small_airport,Kushke Nosrat Airport,34.98400116,50.80619812,3008.0,AS,IR,IR-26,,no,OIIC,,OI1B,,,,0,0
+40069,5165.0,OIID,small_airport,Doshan Tappeh Air Base,35.70299911,51.47510147,4046.0,AS,IR,IR-07,,no,OIID,,,,,,0,0
+40070,5166.0,OIIE,large_airport,Imam Khomeini International Airport,35.41609955,51.15219879,3305.0,AS,IR,IR-07,Tehran,yes,OIIE,IKA,,http://www.ikia.ir/,https://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport,Ahmadabad,0,1
+40071,5167.0,OIIG,medium_airport,Ghale Morghi Airport,35.64479828,51.38069916,3627.0,AS,IR,IR-07,,no,OIIG,,,,,,0,0
+40072,5168.0,OIII,large_airport,Mehrabad International Airport,35.68920135,51.31340027,3962.0,AS,IR,IR-07,Tehran,yes,OIII,THR,,,https://en.wikipedia.org/wiki/Mehrabad_International_Airport,,1886,1272
+40073,5169.0,OIIK,medium_airport,Qazvin Airport,36.240101,50.0471,4184.0,AS,IR,IR-28,Qazvin,no,OIIK,GZW,,,https://en.wikipedia.org/wiki/Qazvin_Airport,Ghazvin,0,0
+40074,5170.0,OIIM,medium_airport,Naja Airport,35.77629852,50.88100052,4040.0,AS,IR,IR-07,,no,OIIM,,,,,,0,0
+40075,5171.0,OIIP,medium_airport,Payam International Airport,35.77610016,50.8266983,4170.0,AS,IR,IR-U-A,Karaj,yes,OIIP,PYK,,,https://en.wikipedia.org/wiki/Payam_International_Airport,,0,0
+40076,42514.0,OIIQ,small_airport,Ghom Airport,34.6333313,50.8833313,,AS,IR,IR-26,Ghom,no,OIIQ,,,,,,0,0
+40077,32103.0,OIIS,small_airport,Semnan Municipal Airport,35.591099,53.495098,3665.0,AS,IR,IR-12,Semnan,yes,OIIS,SNX,,,https://en.wikipedia.org/wiki/Semnan_Municipal_Airport,,0,0
+40078,42515.0,OIIU,small_airport,Damghan Airport,36.16669846,54.34389877,3887.0,AS,IR,IR-12,,no,OIIU,,,,,,0,0
+40079,5172.0,OIKB,medium_airport,Bandar Abbas International Airport,27.21829987,56.37779999,22.0,AS,IR,IR-23,Bandar Abbas,yes,OIKB,BND,,,https://en.wikipedia.org/wiki/Bandar_Abbas_International_Airport,,136,163
+40080,42516.0,OIKF,closed,Baft Airport,29.2342,56.606899,7385.0,AS,IR,IR-15,,no,OIKF,,,,,,0,0
+40081,5173.0,OIKJ,medium_airport,Jiroft Airport,28.7269001,57.67029953,2663.0,AS,IR,IR-15,Jiroft,no,OIKJ,JYR,,,https://en.wikipedia.org/wiki/Jiroft_Airport,Sabzevaran,0,4
+40082,5174.0,OIKK,medium_airport,Kerman Airport,30.27440071,56.9510994,5741.0,AS,IR,IR-15,Kerman,yes,OIKK,KER,,,https://en.wikipedia.org/wiki/Kerman_Airport,,136,132
+40083,5175.0,OIKM,medium_airport,Bam Airport,29.08419991,58.45000076,3231.0,AS,IR,IR-15,,yes,OIKM,BXR,,,https://en.wikipedia.org/wiki/Bam_Airport,,0,8
+40084,5176.0,OIKP,small_airport,Havadarya Airport,27.1583004,56.17250061,19.0,AS,IR,IR-23,Havadarya,no,OIKP,HDR,,,,,0,0
+40085,5177.0,OIKQ,medium_airport,Dayrestan Airport,26.75460052,55.90240097,45.0,AS,IR,IR-23,,no,OIKQ,,,,https://en.wikipedia.org/wiki/Dayrestan_Airport,,0,22
+40086,5178.0,OIKR,medium_airport,Rafsanjan Airport,30.29770088,56.05110168,5298.0,AS,IR,IR-15,,yes,OIKR,RJN,,,https://en.wikipedia.org/wiki/Rafsanjan_Airport,,0,0
+40087,5179.0,OIKY,medium_airport,Sirjan Airport,29.55089951,55.67269897,5846.0,AS,IR,IR-15,,no,OIKY,SYJ,,,,,0,18
+40088,5180.0,OIMB,medium_airport,Birjand Airport,32.89810181,59.26610184,4952.0,AS,IR,IR-29,Birjand,yes,OIMB,XBJ,,,https://en.wikipedia.org/wiki/Birjand_Airport,,13,13
+40089,5181.0,OIMC,medium_airport,Sarakhs Airport,36.50120163,61.06489944,945.0,AS,IR,IR-30,Sarakhs,no,OIMC,CKT,,,,,0,4
+40090,42517.0,OIMD,small_airport,Gonabad Airport,34.34999847,58.68000031,,AS,IR,IR-30,Gonabad,no,OIMD,,,,,"Gulnabad, Goonabad, Juymand, گناباد",0,0
+40091,42518.0,OIMH,small_airport,Torbat-e Heydarieh Airport,35.26670074,59.21670151,4363.0,AS,IR,IR-30,Torbat-E-Heidarieh,no,OIMH,,,,,Torbat-E-Heidarieh,0,0
+40092,5182.0,OIMJ,small_airport,Shahroud Airport,36.4253006,55.10419846,4215.0,AS,IR,IR-12,,no,OIMJ,RUD,,,,,0,0
+40093,5183.0,OIMM,large_airport,Mashhad International Airport,36.23519897,59.64099884,3263.0,AS,IR,IR-30,Mashhad,yes,OIMM,MHD,,,https://en.wikipedia.org/wiki/Mashhad_International_Airport,Shahid Hashemi Nejad Airport,759,697
+40094,5184.0,OIMN,medium_airport,Bojnord Airport,37.49300003,57.30820084,3499.0,AS,IR,IR-31,Bojnord,yes,OIMN,BJB,,,https://en.wikipedia.org/wiki/Bojnourd_Airport,Bojnourd,6,6
+40095,5185.0,OIMS,medium_airport,Sabzevar National Airport,36.16809845,57.59519958,3010.0,AS,IR,IR-30,Sabzevar,yes,OIMS,AFZ,,,https://en.wikipedia.org/wiki/Sabzevar_Airport,,0,0
+40096,5186.0,OIMT,medium_airport,Tabas Airport,33.6678009,56.8927002,2312.0,AS,IR,IR-25,Tabas,no,OIMT,TCX,,,,,0,4
+40097,32104.0,OIMX,small_airport,Soga Airport,37.62789917,56.17309952,2460.0,AS,IR,IR-27,Soga,no,OIMX,,,,,,0,0
+40098,42519.0,OINA,small_airport,Amol Airport,36.47079849,52.36330032,318.0,AS,IR,IR-21,,no,OINA,,,,,,0,0
+40099,42520.0,OINB,small_airport,Babolsar Airport,36.711263,52.679699,-49.0,AS,IR,IR-21,Babolsar,no,OINB,,,,,,0,0
+40100,5187.0,OINE,small_airport,Kalaleh Airport,37.38330078,55.45199966,425.0,AS,IR,IR-27,Kalaleh,no,OINE,KLM,,,,,0,0
+40101,5188.0,OING,medium_airport,Gorgan Airport,36.90940094,54.40129852,-24.0,AS,IR,IR-27,Gorgan,no,OING,GBT,,,https://en.wikipedia.org/wiki/Gorgan_Airport,,29,36
+40102,42521.0,OINH,small_airport,Behshahr Airport,36.69440079,53.54249954,137.0,AS,IR,IR-21,,no,OINH,,,,,,0,0
+40103,42522.0,OINI,small_airport,Ghaem Shahr Airport,36.46666718,52.8666687,,AS,IR,IR-21,Ghaem Shahr,no,OINI,,,,,,0,0
+40104,5189.0,OINJ,small_airport,Bishe Kola Air Base,36.65510178,52.34960175,-79.0,AS,IR,IR-21,Amol,no,OINJ,BSM,,,,,0,0
+40105,42523.0,OINM,small_airport,Mahmood Abad Airport,34.16916656,51.31750107,,AS,IR,IR-04,Mahmood Abad,no,OINM,,,,,,0,0
+40106,5190.0,OINN,medium_airport,Noshahr Airport,36.66329956,51.46469879,-61.0,AS,IR,IR-21,,yes,OINN,NSH,,,https://en.wikipedia.org/wiki/Noshahr_Airport,,3,4
+40107,5191.0,OINR,medium_airport,Ramsar Airport,36.90990067,50.67959976,-70.0,AS,IR,IR-21,,yes,OINR,RZR,,,https://en.wikipedia.org/wiki/Ramsar_Airport,,0,8
+40108,5192.0,OINZ,medium_airport,Dasht-e Naz Airport,36.63579941,53.1935997,35.0,AS,IR,IR-21,Sari,yes,OINZ,SRY,,,https://en.wikipedia.org/wiki/Dasht-e_Naz_Airport,,58,50
+40109,42524.0,OISA,small_airport,North of Fars Airport,31.0355,52.7866,5320.0,AS,IR,IR-14,Abadeh/Eghlid,no,OISA,,,,,,0,0
+40110,32105.0,OISD,small_airport,Darab Airport,28.72159958,54.44129944,3600.0,AS,IR,IR-14,Darab,no,OISD,,,,,,0,0
+40111,5193.0,OISF,medium_airport,Fasa Airport,28.89179993,53.72330093,4261.0,AS,IR,IR-14,Fasa,no,OISF,FAZ,,,,,0,0
+40112,5194.0,OISJ,small_airport,Jahrom Airport,28.58670044,53.57910156,3358.0,AS,IR,IR-14,Jahrom,no,OISJ,JAR,,,https://en.wikipedia.org/wiki/Jahrom_Airport,,0,0
+40113,5195.0,OISL,medium_airport,Lar Airport,27.67469978,54.38330078,2641.0,AS,IR,IR-14,Lar,yes,OISL,LRR,,,https://en.wikipedia.org/wiki/Larestan_International_Airport,,0,6
+40114,32106.0,OISO,small_airport,Zargan Airport,29.75419998,52.69430161,5500.0,AS,IR,IR-14,Zargan,no,OISO,,,,,,0,0
+40115,5196.0,OISR,small_airport,Lamerd Airport,27.37269974,53.18880081,1337.0,AS,IR,IR-14,Lamerd,yes,OISR,LFM,,,https://en.wikipedia.org/wiki/Lamerd_Airport,,0,2
+40116,5197.0,OISS,large_airport,Shiraz Shahid Dastghaib International Airport,29.5392,52.589802,4927.0,AS,IR,IR-14,Shiraz,yes,OISS,SYZ,,http://shirazairport.ir/,https://en.wikipedia.org/wiki/Shiraz_International_Airport,,260,298
+40117,5198.0,OISY,medium_airport,Yasouj Airport,30.70050049,51.54510117,5939.0,AS,IR,IR-18,Yasouj,no,OISY,YES,,,https://en.wikipedia.org/wiki/Yasuj_Airport,Yasuj,0,5
+40118,5199.0,OITK,small_airport,Khoy Airport,38.42750168,44.97359848,3981.0,AS,IR,IR-02,Khoy,no,OITK,KHY,,,https://en.wikipedia.org/wiki/Khoy_Airport,,0,4
+40119,5200.0,OITL,medium_airport,Ardabil Airport,38.32569885,48.42440033,4315.0,AS,IR,IR-03,Ardabil,yes,OITL,ADU,,,https://en.wikipedia.org/wiki/Ardabil_Airport,,55,57
+40120,5201.0,OITM,small_airport,Sahand Airport,37.34799957,46.12789917,4396.0,AS,IR,IR-01,Maragheh,no,OITM,ACP,,,https://en.wikipedia.org/wiki/Sahand_Airport,Maragheh Highway Strip,0,4
+40121,5202.0,OITP,small_airport,Parsabade Moghan Airport,39.60359955,47.88150024,251.0,AS,IR,IR-03,Parsabad,yes,OITP,PFQ,,,https://en.wikipedia.org/wiki/Parsabad-Moghan_Airport,,5,5
+40122,5203.0,OITR,medium_airport,Urmia Airport,37.66809845,45.06869888,4343.0,AS,IR,IR-02,Urmia,yes,OITR,OMH,,,https://en.wikipedia.org/wiki/Urmia_Airport,,43,43
+40123,42525.0,OITS,small_airport,Saghez Airport,36.218333,46.298889,4880.0,AS,IR,IR-16,Saghez,no,OITS,,,,https://en.wikipedia.org/wiki/Saqqez_Airport,Saqqez,0,0
+40124,5204.0,OITT,large_airport,Tabriz International Airport,38.13389969,46.23500061,4459.0,AS,IR,IR-01,Tabriz,yes,OITT,TBZ,,http://www.tabrizairport.ir/,https://en.wikipedia.org/wiki/Tabriz_International_Airport,IRIAF,208,195
+40125,42526.0,OITU,small_airport,Maku National Airport,39.330002,44.43,,AS,IR,IR-02,Showt,yes,OITU,IMQ,,,https://en.wikipedia.org/wiki/Maku_International_Airport,Makou,0,0
+40126,5205.0,OITZ,medium_airport,Zanjan Airport,36.77370071,48.3594017,5382.0,AS,IR,IR-11,Zanjan,no,OITZ,JWN,,,https://en.wikipedia.org/wiki/Zanjan_Airport,,5,5
+40127,42527.0,OIYB,small_airport,Bafgh Airport,31.58333206,55.56666565,,AS,IR,IR-25,Bafgh,no,OIYB,,,,,,0,0
+40128,5206.0,OIYY,medium_airport,Shahid Sadooghi Airport,31.9048996,54.2765007,4054.0,AS,IR,IR-25,Yazd,yes,OIYY,AZD,,,https://en.wikipedia.org/wiki/Shahid_Sadooghi_Airport,,112,104
+40129,5207.0,OIZB,medium_airport,Zabol Airport,31.09830093,61.54389954,1628.0,AS,IR,IR-13,,no,OIZB,ACZ,,,https://en.wikipedia.org/wiki/Zabol_Airport,,0,7
+40130,5208.0,OIZC,medium_airport,Konarak Airport,25.44330025,60.38209915,43.0,AS,IR,IR-13,Chabahar,yes,OIZC,ZBR,,,https://en.wikipedia.org/wiki/Konarak_Airport,,0,45
+40131,5209.0,OIZH,medium_airport,Zahedan International Airport,29.47570038,60.90620041,4564.0,AS,IR,IR-13,Zahedan,yes,OIZH,ZAH,,,https://en.wikipedia.org/wiki/Zahedan_International_Airport,,73,71
+40132,5210.0,OIZI,medium_airport,Iran Shahr Airport,27.23609924,60.72000122,2040.0,AS,IR,IR-13,Iranshahr,no,OIZI,IHR,,,https://en.wikipedia.org/wiki/Iranshahr_Airport,,0,2
+40133,32107.0,OIZJ,small_airport,Jask Airport,25.653601,57.799301,19.0,AS,IR,IR-23,Jask,yes,OIZJ,JSK,,,https://en.wikipedia.org/wiki/Jask_Airport,,0,3
+40134,5211.0,OIZS,small_airport,Saravan Airport,27.41930008,62.31579971,3930.0,AS,IR,IR-13,,no,OIZS,,,,,,0,0
+53929,23664.0,US-OI05,small_airport,Nain Military Airport,33.0890007,53.41730118,3550.0,AS,IR,IR-04,,no,,,,,,,0,0
